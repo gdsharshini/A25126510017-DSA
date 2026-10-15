@@ -15,3 +15,5 @@ public:
         delete temp;
     }
 };
+
+<img width="637" height="125" alt="image" src="https://github.com/user-attachments/assets/38a54a43-f34f-4505-83cd-c5a71b575daa" />
