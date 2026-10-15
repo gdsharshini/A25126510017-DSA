@@ -19,3 +19,6 @@ public:
         return nums[left];
     }
 };
+
+<img width="435" height="121" alt="image" src="https://github.com/user-attachments/assets/abf64c88-b1cb-4397-be24-c28e7211ef18" />
+
