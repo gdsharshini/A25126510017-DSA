@@ -37,3 +37,6 @@ public:
         return q1.empty();
     }
 };
+
+<img width="387" height="181" alt="image" src="https://github.com/user-attachments/assets/a8175971-cb4b-457b-98cc-b1ee608e1ebf" />
+
