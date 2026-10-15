@@ -45,3 +45,6 @@ public:
         return input.empty() && output.empty();
     }
 };
+
+<img width="387" height="181" alt="image" src="https://github.com/user-attachments/assets/1607132e-f709-4b4d-8787-f7f6a6eab4d2" />
+
