@@ -21,3 +21,6 @@ public:
         return -1;
     }
 };
+
+<img width="435" height="121" alt="image" src="https://github.com/user-attachments/assets/e71c0282-251d-48f3-b3ce-8cba104e015a" />
+
